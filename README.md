@@ -10,18 +10,14 @@
   
   ## █▓▒▒░░░ 𝗦𝗢𝗖𝗜𝗔𝗟 ░░░▒▒▓█
 
-<a href="https://www.youtube.com/@naapy_x16"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="80" height="80" alt="YouTube" /></a>
-<a href="https://www.tiktok.com/@naapy_x16"><img src="https://cdn.simpleicons.org/tiktok" width="80" height="80" alt="TikTok" /></a>
+<a href="https://www.facebook.com/Plompty"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="70" height="70" alt="Facebook" /></a>
+<a href="https://www.youtube.com/@naapy_x16"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="70" height="70" alt="YouTube" /></a>
+<a href="mailto:nmeoww2154@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="70" height="70" alt="Gmail" /></a>
+<a href="https://www.tiktok.com/@naapy_x16"><img src="https://cdn.simpleicons.org/tiktok" width="70" height="70" alt="TikTok" /></a>
+<a href="https://www.instagram.com/phen_x64/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="70" height="70" alt="Instagram" /></a>
   
 </div>
 
-<div align="center">
-
-<a href="https://www.facebook.com/Plompty"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="80" height="80" alt="Facebook" /></a>
-<a href="mailto:nmeoww2154@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="85" height="85" alt="Gmail" /></a>
-<a href="https://www.instagram.com/phen_x64/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="80" height="80" alt="Instagram" /></a>
-
-</div>
 
 <div align="center">
   
@@ -37,9 +33,9 @@
   
   # █▓▒▒░░░ 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 ░░░▒▒▓█
 
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80" height="80" alt="VS Code" /></a>
-<a href="https://neovim.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="85" height="85" alt="Neovim" /></a>
-<a href="https://vscodium.com/"><img src="https://cdn.simpleicons.org/vscodium" width="80" height="80" alt="VSCodium" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="70" height="70" alt="VS Code" /></a>
+<a href="https://neovim.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="70" height="70" alt="Neovim" /></a>
+<a href="https://vscodium.com/"><img src="https://cdn.simpleicons.org/vscodium" width="70" height="70" alt="VSCodium" /></a>
   
 </div>
 
@@ -55,7 +51,7 @@
 
 <a href="https://swagger.io/specification/"><img src="https://cdn.simpleicons.org/swagger" width="75" height="75" alt="API / Swagger" /></a>
 <a href="https://www.json.org/"><img src="https://cdn.simpleicons.org/json" width="75" height="75" alt="JSON" /></a>
-<a href="https://github.com/S4LMUN"><img src="https://cdn.simpleicons.org/github" width="80" height="80" alt="GitHub" /></a>
+<a href="https://github.com/S4LMUN"><img src="https://cdn.simpleicons.org/github" width="75" height="75" alt="GitHub" /></a>
 <a href="https://yaml.org/"><img src="https://cdn.simpleicons.org/yaml" width="75" height="75" alt="YAML" /></a>
 <a href="https://www.markdownguide.org/"><img src="https://cdn.simpleicons.org/markdown" width="75" height="75" alt="Markdown" /></a>
 
