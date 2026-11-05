@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**S4LMUN/S4LMUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm <a href="https://github.com/S4LMUN">S4LMUN</a> just a simple study.
+My goal is to become an expert in every <a href="https://en.wikipedia.org/wiki/List_of_programming_languages">PROGRAMMING LANGUAGE.</a>
 
-Here are some ideas to get you started:
+I know what I should do, and I will do it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to find and learn about things that I want to do or am interested in.
+
+Fun Facts:
+- I use Arch btw
+- Focused on discipline and continuous growth
+- Driven by purpose over distraction
